@@ -4,3 +4,4 @@ def main_def(var):
 
 def static_def():
 	return 2
+
